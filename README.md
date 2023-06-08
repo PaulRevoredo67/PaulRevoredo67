@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Paul Revoredo</h1>
 <h3 align="center">Programador frontend Junior</h3>
 
-- 📫 How to reach me **paulrevoredomartel6@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3> - 📫 How to reach me **paulrevoredomartel6@gmail.com**
 <p align="left">
 </p>
 
