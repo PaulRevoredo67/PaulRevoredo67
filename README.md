@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/1e/8a/0c/1e8a0c70035899417bddb5dd044794df.gif" style=" position: absolute; right:0;">
+<img src="https://i.pinimg.com/originals/1e/8a/0c/1e8a0c70035899417bddb5dd044794df.gif" >
 
 <h1 align="center">Hi 👋, I'm Paul Revoredo</h1>
 <h3 align="center">Programador frontend Junior</h3>
