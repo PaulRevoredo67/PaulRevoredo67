@@ -1,7 +1,7 @@
 
 <p align="center"> <img src="https://images.unsplash.com/photo-1635471885959-945b7c40251a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1700&q=80" height="300" width="1000px" ></p> 
 
-<h1 align="center">Hi 👋, I'm Paul Revoredo   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMxOThmY2UxOGE0YmVlYjA5NmE0YTFjM2IwNjExZjE5ZWZiMTAwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/McDxBilGiX2WaT1YLQ/giphy.gif"  width="60px"> 
+<h1 align="center">Hi 👋, I'm Paul Revoredo..   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMxOThmY2UxOGE0YmVlYjA5NmE0YTFjM2IwNjExZjE5ZWZiMTAwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/McDxBilGiX2WaT1YLQ/giphy.gif"  width="60px"> 
 
 </h1>
 
