@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE4cGE5Z2MwNHVmOGJnYTd1Y282eTZseHptenZidnlocmQ4enpmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ct24hCYNUsK4YRZ4Wl/giphy.gif" height="300" width="1000px" ></p> 
+
 
 <h1 align="center">Hi 👋, I'm Paul Revoredo..   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMxOThmY2UxOGE0YmVlYjA5NmE0YTFjM2IwNjExZjE5ZWZiMTAwOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/McDxBilGiX2WaT1YLQ/giphy.gif"  width="60px"> 
 
