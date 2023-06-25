@@ -5,9 +5,9 @@
 
 </h1>
 
-<h4 align="center">Programador frontend Junior</h4>
+<h3 align="center">Programador frontend Junior</h3>
 
-<h3  align="left"> Hello! I'm a junior frontend developer with two years of experience in the field. I'm passionate about creating engaging and functional user experiences through programming and web design.  </h3>
+<h4  align="left"> Hello! I'm a junior frontend developer with two years of experience in the field. I'm passionate about creating engaging and functional user experiences through programming and web design.  </h4>
 
 
 
