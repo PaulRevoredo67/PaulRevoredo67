@@ -7,7 +7,7 @@
 
 <h4 align="center">Programador frontend Junior</h4>
 
-<p  align="left"> Hello! I'm a junior frontend developer with two years of experience in the field. I'm passionate about creating engaging and functional user experiences through programming and web design.  </p>
+<h3  align="left"> Hello! I'm a junior frontend developer with two years of experience in the field. I'm passionate about creating engaging and functional user experiences through programming and web design.  </h3>
 
 
 
